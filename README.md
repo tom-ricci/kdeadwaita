@@ -1,6 +1,6 @@
 # kdeadwaita
 
-Adwaita theme for KDE. Up-to-date with Libadwaita 1.7 colors.
+Adwaita theme for KDE. Up-to-date with Libadwaita 1.7 colors. Also contains some (minimal) changes from upstream.
 
 ![Light theme](./readme-images/kvan-light.png)
 ![Dark theme](./readme-images/kvan-dark.png)
